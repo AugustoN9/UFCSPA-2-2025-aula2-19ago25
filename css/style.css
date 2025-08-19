@@ -4,6 +4,13 @@
     box-sizing: border-box;
 }
 
+body{
+    background-image: url("../image/ultraman3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .tab{
     width: 40% !important;
+    margin-top: 12rem;
 }
