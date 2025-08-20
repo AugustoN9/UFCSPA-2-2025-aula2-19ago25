@@ -32,7 +32,8 @@ body{
     height: 300px;
 }
 
-#video{
+#video, #texto{
+    padding-top: 8rem;
     width: 100vw;
     height: 100vh;
 }
